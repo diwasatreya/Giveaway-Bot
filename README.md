@@ -10,11 +10,10 @@
 - Dont say u created it when u didnt
 - dont copy paste or u will never learn
 ##### Things you should to do:
-- Suscribe to  KP 18 AKA Atreya
+- Suscribe to  KP 18 
 - star this repo
 - fork this repo
 - follow me
-- make videos on my projects
 - Gift me nitro for more code
 - join Capital Club
 
@@ -25,6 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/74746579/119320781-a8084880-bc9b-11eb-9f34-aa8351183424.png)
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
+- Change prefix and status in `settings.json`
 - Run in repl.it
 - [Click Here](https://replit.com/@GamingDiwas/GiveawayReq-Bot#README.md)
 
@@ -38,4 +38,4 @@
 | !reroll <messageID>  | !reroll 846607568696901633  |
 
 
-Please Subscribe to my channel and for help join my server.
+## Join my server I can support you for coding.
