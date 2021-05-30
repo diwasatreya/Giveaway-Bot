@@ -33,9 +33,9 @@
 # Commands
 | Commands  | Examples |
 | ------------- | ------------- |
-| !giveaway <time> <winners> <server id or "none"> <role id or "none"> <messages or "none"> prize  | !giveaway 30m 1 733807204938940447 756126877235806238 50 Discord Nitro  |
-| !end <messageID>  | !end 774487905099841546  |
-| !reroll <messageID>  | !reroll 774487905099841546  |
+| !giveaway <time> <winners> <server id or "none"> <role id or "none"> <messages or "none"> prize  | !giveaway 30m 1 708565122188312579 839064409217171486 Nitro Free  |
+| !end <messageID>  | !end 846607568696901633  |
+| !reroll <messageID>  | !reroll 846607568696901633  |
 
 
 Please Subscribe to my channel and for help join my server.
