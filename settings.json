@@ -1,0 +1,11 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "?"
+    },
+    "status": {
+        "name": "discord.gg/admin",
+        "type": "PLAYING",
+        "status": "online"
+    }
+}
